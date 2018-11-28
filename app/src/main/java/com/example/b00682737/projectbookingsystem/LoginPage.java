@@ -67,7 +67,7 @@ public class LoginPage extends AppCompatActivity {
             }
               //  validate(Username.getText().toString(), Password.getText().toString());
          //   }
-        }); //this will open login page if username & password are correct
+        }); //this will open login page if username & password are corrects
 
     }
 
